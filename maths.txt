@@ -1,1 +1,1 @@
-a=10 b=20 and a plus b equal to 30
+c=60 and now a b c equals to 90 a=10 b=20 and a plus b equal to 30
