@@ -1,0 +1,1 @@
+a=10 b=20 and a plus b equal to 30
